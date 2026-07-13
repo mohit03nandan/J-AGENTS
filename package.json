@@ -1,0 +1,26 @@
+{
+  "name": "j-agents",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Job discovery + tailoring agent for Mohit — twice daily digest with 1-click apply links",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "run:agent": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^2.0.0",
+    "ai": "^6.0.0",
+    "dotenv": "^16.4.5",
+    "resend": "^4.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}
