@@ -728,6 +728,66 @@
       "board": "indeed",
       "fitScore": 32,
       "reasoning": "This is a poor fit due to a critical experience gap. The JD explicitly requires 5 years of QA automation experience, while Mohit has only 1.5 years. Despite strong technical alignment—he possesses relevant automation frameworks (Cypress, Playwright, Appium), API testing tools, and CI/CD experience with GitHub Actions—the seniority mismatch is disqualifying for most hiring managers. The role appears targeted at mid-level engineers, whereas Mohit is an entry-level SDET-1. His skill set is modern and comprehensive, including end-to-end test ownership and framework-building experience, but he lacks the depth, leadership maturity, and production battle-testing that comes with 5 years in the field. The company likely seeks someone who can independently architect test strategies and mentor juniors, not someone still in their first two years of professional testing."
+    },
+    "adzuna:5796404907": {
+      "jobId": "adzuna:5796404907",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5796404907?utm_medium=api&utm_source=3be4c496",
+      "title": "SDET III (Python, Automation)",
+      "company": "NCR Vyoix",
+      "board": "indeed",
+      "fitScore": 62,
+      "reasoning": "Mohit has strong technical alignment with the SDET III role—he possesses Python expertise, extensive automation framework experience (Cypress, Playwright, Appium), REST API testing skills, and CI/CD pipeline knowledge. His end-to-end test ownership and framework-building from scratch demonstrate initiative beyond typical SDET-1 responsibilities. However, the seniority gap is significant: this is an SDET III position requiring leadership, mentoring, and strategic test design ownership, while Mohit has only 1.5 years of experience as SDET-1. The job emphasizes leading teams, mentoring junior engineers, and driving cross-functional testing strategies—responsibilities that typically require 4-6 years of experience. While his technical skills are solid and transferable, the lack of proven mentorship experience and limited tenure make him a moderate fit rather than strong match for this senior-level role."
+    },
+    "adzuna:5794744184": {
+      "jobId": "adzuna:5794744184",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5794744184?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test",
+      "company": "Barclays",
+      "board": "indeed",
+      "fitScore": 25,
+      "reasoning": "This is a significant mismatch. The Barclays role is fundamentally a Data Engineering position focused on building data pipelines, data warehouses, and data lakes—requiring expertise in data architecture, ETL processes, and big data technologies. Mohit's profile is centered entirely on SDET/QA automation with test frameworks (Cypress, Playwright, Appium), API testing, and CI/CD for test automation. While both roles involve some pipeline work and may use overlapping languages like Python, the core competencies are entirely different domains. Mohit has no demonstrated experience with data engineering tools (Spark, Kafka, Airflow, SQL databases, data warehousing), data modeling, or the data lifecycle management that this role demands. The job title is misleading—it says \"SDET\" but the description is pure data engineering."
+    },
+    "adzuna:5794667832": {
+      "jobId": "adzuna:5794667832",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5794667832?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test",
+      "company": "Ciroos",
+      "board": "indeed",
+      "fitScore": 68,
+      "reasoning": "Mohit presents a solid mid-level match for this SDET role at an AI-SRE startup. His 1.5 years of hands-on SDET experience with comprehensive test automation across web, mobile, and API layers aligns well with the core SDET function. He's built automation frameworks from scratch (Cypress, Appium) and has CI/CD pipeline experience with GitHub Actions—valuable for a startup environment. However, the role is at an early-stage AI startup focused on Site Reliability Engineering, observability, and incident remediation, which suggests they may value understanding of distributed systems, cloud infrastructure monitoring, performance testing at scale, and potentially Python-based automation for SRE tooling. While Mohit has k6 and Grafana exposure, his profile emphasizes traditional QA automation over SRE-adjacent testing or infrastructure reliability. The company's mention of \"experienced entrepreneurs and engineers who built billion-dollar products\" hints they might prefer someone with either deeper SRE/DevOps testing experience or slightly more tenure, though the SDET title suggests mid-level is acceptable."
+    },
+    "adzuna:5799158611": {
+      "jobId": "adzuna:5799158611",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5799158611?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Lead - Senior Manager",
+      "company": "State Street",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "This is a significant seniority mismatch. The role is titled \"QA Automation Lead - Senior Manager,\" which typically requires 8-12+ years of experience and people management responsibilities. Mohit has only 1.5 years of experience as an SDET-1, making him far too junior for a senior leadership position. While there is some technical overlap—both require automation frameworks, API testing, and test strategy—the core technology stack differs substantially. The JD emphasizes Java, Selenium, Cucumber, and REST Assured, whereas Mohit's primary expertise is in JavaScript/TypeScript-based tools (Cypress, Playwright, WebDriverIO). He lacks the demonstrated leadership experience, team management capabilities, and seniority that a \"Lead - Senior Manager\" role demands. The functional area aligns (QA automation), but the level gap is insurmountable."
+    },
+    "adzuna:5797621338": {
+      "jobId": "adzuna:5797621338",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5797621338?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Engineer - Global Test Automation Framework",
+      "company": "Magna International, Inc",
+      "board": "indeed",
+      "fitScore": 42,
+      "reasoning": "This is a borderline fit. The role title \"Senior Engineer - Global Test Automation Framework\" suggests 3-5+ years of experience and architectural/framework ownership at scale, while Mohit has 1.5 years as SDET-1. The core skill alignment is excellent—he has hands-on experience with Cypress, Playwright, Appium, WebDriverIO, CI/CD, and has built automation frameworks from scratch, which directly matches the automation framework focus. However, the \"Senior\" designation and \"Global\" scope imply a level of cross-team leadership, mentorship, and enterprise-scale framework design that typically requires more seasoning. Magna is a Tier-1 automotive supplier, likely expecting candidates who can drive global standards and mentor junior engineers. While Mohit's technical foundation is strong and he's demonstrated ownership at his current scale, the seniority gap is significant enough to warrant concern, pushing the score to the lower end of viable."
+    },
+    "adzuna:5799339014": {
+      "jobId": "adzuna:5799339014",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5799339014?utm_medium=api&utm_source=3be4c496",
+      "title": "Remote: Rectuiter for IT consulting firm (UK shift) serving US and India clients",
+      "company": "TekPioneers - A TekGence Company",
+      "board": "indeed",
+      "fitScore": 8,
+      "reasoning": "This is a fundamental role mismatch. The job posting is for a Technical Recruiter position focused on sourcing and hiring candidates for IT consulting roles, requiring skills in candidate sourcing, screening, stakeholder management, and recruitment operations. Mohit is a Software Development Engineer in Test with 1.5 years of hands-on technical experience in test automation, frameworks, and CI/CD. His expertise lies in writing code, building test frameworks, and quality assurance—not in recruitment, talent acquisition, or HR functions. While he understands technical roles deeply (which could theoretically help in screening technical candidates), he has zero demonstrated recruiting experience, no familiarity with applicant tracking systems, no sourcing expertise, and his career trajectory is clearly engineering-focused, not HR/talent acquisition. This role would represent a complete career pivot away from his core competency and stated target roles (all of which are engineering/QA positions)."
     }
   }
 }
