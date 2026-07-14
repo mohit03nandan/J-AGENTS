@@ -788,6 +788,36 @@
       "board": "indeed",
       "fitScore": 8,
       "reasoning": "This is a fundamental role mismatch. The job posting is for a Technical Recruiter position focused on sourcing and hiring candidates for IT consulting roles, requiring skills in candidate sourcing, screening, stakeholder management, and recruitment operations. Mohit is a Software Development Engineer in Test with 1.5 years of hands-on technical experience in test automation, frameworks, and CI/CD. His expertise lies in writing code, building test frameworks, and quality assurance—not in recruitment, talent acquisition, or HR functions. While he understands technical roles deeply (which could theoretically help in screening technical candidates), he has zero demonstrated recruiting experience, no familiarity with applicant tracking systems, no sourcing expertise, and his career trajectory is clearly engineering-focused, not HR/talent acquisition. This role would represent a complete career pivot away from his core competency and stated target roles (all of which are engineering/QA positions)."
+    },
+    "adzuna:5799811316": {
+      "jobId": "adzuna:5799811316",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5799811316?utm_medium=api&utm_source=3be4c496",
+      "title": "AI Engineer",
+      "company": "GTMfund",
+      "board": "indeed",
+      "fitScore": 18,
+      "reasoning": "This is a severe mismatch. The role is for an AI Engineer focused on building production-grade AI agents, requiring deep machine learning, LLM integration, and AI systems engineering expertise. Mohit is an SDET with 1.5 years of experience specializing in test automation (Cypress, Playwright, Appium), CI/CD pipelines, and quality assurance. While he has strong programming fundamentals (1000+ DSA problems) and Python experience, there's no evidence of AI/ML knowledge, experience with LLMs, neural networks, model deployment, or AI agent architecture. The role requires building AI systems to automate engineering workflows, not testing them. This is a fundamental function mismatch—engineering AI solutions versus ensuring quality through testing—making him essentially unqualified despite being a strong engineer in his domain."
+    },
+    "adzuna:5799922228": {
+      "jobId": "adzuna:5799922228",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5799922228?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation Tester",
+      "company": "Capco",
+      "board": "indeed",
+      "fitScore": 82,
+      "reasoning": "Mohit is a strong fit for this Automation Tester role at Capco. With 1.5 years as an SDET-1, he brings hands-on experience in test automation frameworks (Cypress, Playwright, Appium, WebDriverIO) and has demonstrated ownership of end-to-end test strategies across web, mobile, and API layers. His technical stack aligns well with typical automation tester requirements, including CI/CD integration via GitHub Actions and API testing with Postman/REST Assured. The role title \"Automation Tester\" suggests a mid-junior level position, which matches his current seniority perfectly. His strong DSA foundation (1000+ problems) and ability to build frameworks from scratch indicate engineering maturity beyond typical manual testers. The only minor gaps are the limited job description details making it hard to assess specific tooling preferences, and potential location mismatch (posting mentions Pune/Bangalore), though this is easily addressable. His compensation expectations (12-13 LPA) are reasonable for this level at a consultancy like Capco."
+    },
+    "adzuna:5799802212": {
+      "jobId": "adzuna:5799802212",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5799802212?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Engineer (Python)",
+      "company": "Firstwave Technology Pvt Ltd",
+      "board": "indeed",
+      "fitScore": 32,
+      "reasoning": "This is a significant experience mismatch. The role explicitly requires 5-8 years of experience with evening shift hours (4 PM - 1 AM IST), while Mohit has only 1.5 years as SDET-1. Although there's strong skill alignment in automation frameworks (Playwright, Python, API testing), the seniority gap is critical. The JD seeks a \"highly skilled and experienced\" engineer for likely mid-to-senior responsibilities, while Mohit is early-career. His technical toolkit overlaps well (Python, Playwright via his Cypress/Playwright experience, API automation), but lacks the depth expected from 5+ years. The evening shift requirement and likely higher compensation expectations for a 5-8 year role further reduce fit. While his DSA strength and framework-building experience demonstrate capability, he falls short of the explicit experience threshold."
     }
   }
 }
