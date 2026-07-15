@@ -818,6 +818,186 @@
       "board": "indeed",
       "fitScore": 32,
       "reasoning": "This is a significant experience mismatch. The role explicitly requires 5-8 years of experience with evening shift hours (4 PM - 1 AM IST), while Mohit has only 1.5 years as SDET-1. Although there's strong skill alignment in automation frameworks (Playwright, Python, API testing), the seniority gap is critical. The JD seeks a \"highly skilled and experienced\" engineer for likely mid-to-senior responsibilities, while Mohit is early-career. His technical toolkit overlaps well (Python, Playwright via his Cypress/Playwright experience, API automation), but lacks the depth expected from 5+ years. The evening shift requirement and likely higher compensation expectations for a 5-8 year role further reduce fit. While his DSA strength and framework-building experience demonstrate capability, he falls short of the explicit experience threshold."
+    },
+    "adzuna:5800781522": {
+      "jobId": "adzuna:5800781522",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800781522?utm_medium=api&utm_source=3be4c496",
+      "title": "Quality Engineering Manager",
+      "company": "Marriott Tech Accelerator",
+      "board": "indeed",
+      "fitScore": 15,
+      "reasoning": "This is a severe mismatch on seniority level. The role is for a Quality Engineering Manager, which is a leadership/management position requiring several years of experience managing teams, setting quality strategy at an organizational level, and overseeing multiple projects. Mohit has only 1.5 years of individual contributor experience as an SDET-1. While his technical skills in test automation (Cypress, Playwright, Appium) are relevant to quality engineering, he lacks any demonstrated people management experience, budget ownership, or senior stakeholder engagement—all critical for a managerial role. The job title explicitly states \"Manager,\" which typically requires 7-10+ years of experience including 3-5 years in leadership roles. His target roles list (SDET-1/2, QA Engineer, SDE-1) confirms he's seeking individual contributor positions, not management. This is at least 3-4 levels above his current career stage."
+    },
+    "adzuna:5800404878": {
+      "jobId": "adzuna:5800404878",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800404878?utm_medium=api&utm_source=3be4c496",
+      "title": "Software QA Engineer",
+      "company": "Cohesity",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Mohit is a solid match for this Software QA Engineer role at Cohesity. With 1.5 years as an SDET-1, he brings hands-on automation experience across web, mobile, and API testing using modern frameworks (Cypress, Playwright, Appium, WebDriverIO). His technical foundation is strong—proven by 1000+ DSA problems and proficiency in JavaScript, TypeScript, Python, and Java. He's built test frameworks from scratch and implemented CI/CD pipelines with GitHub Actions, demonstrating end-to-end ownership. The role appears to be mid-level QA, which aligns well with his SDET-1/SDET-2 target roles. While the JD doesn't specify exact years of experience, Cohesity's enterprise scale and Fortune 100 clientele may prefer candidates with 2-3+ years. His current 9 LPA and 12-13 LPA expectation is reasonable for this level. The primary risk is the potential seniority gap if Cohesity seeks more seasoned engineers, but his technical skills and framework-building experience position him competitively."
+    },
+    "adzuna:5800398635": {
+      "jobId": "adzuna:5800398635",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800398635?utm_medium=api&utm_source=3be4c496",
+      "title": "SDET Engineer – Playwright & API Automation",
+      "company": "Jobgether",
+      "board": "indeed",
+      "fitScore": 88,
+      "reasoning": "Mohit is an excellent match for this SDET role focused on Playwright and API automation. He brings 1.5 years of hands-on SDET experience with direct expertise in Playwright, along with comprehensive API automation skills using Postman, Newman, and REST Assured. His technical profile demonstrates end-to-end test strategy ownership across web, mobile, and API layers, which aligns perfectly with the role's focus on building scalable automation solutions for modern web applications and distributed systems. The seniority level matches well—he's currently an SDET-1 targeting SDET/SDET-2 roles, and this position appears to be mid-level rather than senior. His automation framework development experience (building Cypress and Appium from scratch) and CI/CD pipeline expertise with GitHub Actions demonstrate the scalability and reliability focus mentioned in the JD. The 1000+ DSA problems solved add strong algorithmic foundations valuable for a development-focused testing role. No significant experience gaps exist for the core requirements."
+    },
+    "adzuna:5800359079": {
+      "jobId": "adzuna:5800359079",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800359079?utm_medium=api&utm_source=3be4c496",
+      "title": "SDETs (Manual  Automation on Playwright, RestAssured, white box testing, UIAPIData scope)",
+      "company": "Zensar Technologies",
+      "board": "indeed",
+      "fitScore": 82,
+      "reasoning": "Mohit is a strong match for this SDET role at Zensar. His 1.5 years of experience aligns well with the SDET/Sr.SDET range mentioned, especially given his comprehensive skill set. He has direct hands-on experience with Playwright and REST Assured—two of the core technologies explicitly mentioned in the JD. His experience building automation frameworks from scratch, owning end-to-end test strategies across web, mobile, and API, and implementing CI/CD pipelines demonstrates the functional and automation testing capabilities required. The role emphasizes UI/API/Data scope and white box testing, which maps directly to his automation toolkit (Cypress, Playwright, Appium, WebDriverIO) and API testing expertise (Postman, Newman, REST Assured, k6). His strong DSA foundation (1000+ problems) suggests solid software engineering fundamentals beneficial for white box testing. The primary gap is limited explicit mention of white box testing experience and relatively junior tenure for a \"Sr.SDET\" designation, though his technical depth compensates significantly."
+    },
+    "adzuna:5800348202": {
+      "jobId": "adzuna:5800348202",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800348202?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Test Engineering II-SUPPORT SERVICES-CTO - In House Engineering",
+      "company": "Kotak Mahindra Bank",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Mohit is a strong fit for this Software Test Engineering II role at Kotak Mahindra Bank. His 1.5 years as SDET-1 with hands-on experience building test automation frameworks (Cypress, Playwright, Appium) aligns well with the SDET requirements for a Level II position in a banking tech environment. His end-to-end test strategy ownership across web, mobile, and API testing demonstrates the comprehensive testing mindset needed for a tech-first bank. The tech stack overlap is excellent - modern automation tools, CI/CD with GitHub Actions, and API testing capabilities are all relevant. His strong DSA foundation (1000+ problems) shows solid engineering fundamentals valued in rigorous financial services environments. The slight gap is that Level II roles typically expect 2-3 years of experience, and Kotak's support services role may involve production support responsibilities not explicitly highlighted in his profile. However, his framework-building experience and automation maturity compensate significantly."
+    },
+    "adzuna:5800564367": {
+      "jobId": "adzuna:5800564367",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800564367?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Engineer",
+      "company": "ascendion",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Mohit is a solid match for this QA Automation Engineer role at Ascendion. His 1.5 years of SDET experience aligns well with an entry-to-mid level QA automation position, and he demonstrates strong technical overlap with the core requirements: Python proficiency, API testing expertise (Postman, REST Assured), and extensive CI/CD experience (GitHub Actions). While the JD specifically calls for Selenium and PyTest which aren't explicitly listed in his profile, his mastery of multiple automation frameworks (Cypress, Playwright, Appium, WebDriverIO) shows he can quickly adapt to Selenium/PyTest. His framework-building experience (Cypress + Appium from scratch) and CI/CD pipeline ownership demonstrate the autonomy and technical depth needed. The main gaps are the absence of explicit Selenium/PyTest/Jenkins experience mentioned in the JD, and the emerging \"AI-powered testing tools\" requirement which isn't addressed in his profile. His compensation expectations (12-13 LPA) are reasonable for this role level. Overall, he's a strong technical candidate who can contribute immediately but may need brief ramp-up on specific tooling."
+    },
+    "adzuna:5800564386": {
+      "jobId": "adzuna:5800564386",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800564386?utm_medium=api&utm_source=3be4c496",
+      "title": "Backend developer",
+      "company": "IBM",
+      "board": "indeed",
+      "fitScore": 22,
+      "reasoning": "This is a poor fit. The job is for a Backend Developer focused on infrastructure systems, mainframes, hybrid cloud platforms, networking, and site reliability engineering at IBM. Mohit is an SDET with 1.5 years of experience specializing in test automation frameworks (Cypress, Playwright, Appium), not backend development. While he has programming skills in Python, Java, and JavaScript, his experience is entirely in the QA/testing domain with no demonstrated backend development, distributed systems, or infrastructure engineering experience. The role functions are fundamentally different—one builds and operates production systems, the other tests them. There's minimal transferable experience beyond basic programming knowledge."
+    },
+    "adzuna:5800408290": {
+      "jobId": "adzuna:5800408290",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800408290?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Associate - Test Automation & Tools Development Engineer",
+      "company": "Moniepoint",
+      "board": "indeed",
+      "fitScore": 62,
+      "reasoning": "Mohit is a solid technical fit with strong automation skills (Cypress, Playwright, Appium, WebDriverIO) and API testing experience directly relevant to Moniepoint's test automation role. His 1.5 years of SDET experience and ownership of end-to-end test strategies demonstrate capability beyond typical junior roles. However, the \"Senior Associate\" title and emphasis on \"Test Automation & Tools Development\" suggests they're likely seeking 3-5 years of experience, not 1.5 years. His current compensation at 9 LPA and target of 12-13 LPA aligns reasonably with mid-level expectations in India. The fintech domain at Moniepoint (payments, POS, digital transactions) would benefit from his automation infrastructure skills, but he may face competition from candidates with more years of experience and deeper tools development backgrounds. The role is a stretch but achievable if Moniepoint values strong fundamentals and rapid growth potential over pure years of experience."
+    },
+    "adzuna:5800400586": {
+      "jobId": "adzuna:5800400586",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800400586?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation Tester",
+      "company": "Capco",
+      "board": "indeed",
+      "fitScore": 82,
+      "reasoning": "Mohit is a strong match for this Automation Tester role at Capco. With 1.5 years as an SDET and comprehensive automation expertise across multiple frameworks (Cypress, Playwright, Appium, WebDriverIO), he directly aligns with the core requirements. His hands-on experience building test frameworks from scratch, implementing CI/CD pipelines, and owning end-to-end test strategy demonstrates the practical skills needed for automation testing in a consulting environment. The role appears to be at a junior-to-mid level (no senior experience requirement mentioned), which suits his SDET-1 position perfectly. His technical breadth across web, mobile, and API testing, combined with proven problem-solving abilities (1000+ DSA problems), positions him well for a consultancy that serves banking and financial sectors where quality is critical. The location mismatch (Pune vs his likely current location) and the relatively light job description present minor uncertainties, but his target roles and compensation expectations align well with what Capco typically offers for this level."
+    },
+    "adzuna:5800390657": {
+      "jobId": "adzuna:5800390657",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800390657?utm_medium=api&utm_source=3be4c496",
+      "title": "Video Player Engineer",
+      "company": "Jobgether",
+      "board": "indeed",
+      "fitScore": 28,
+      "reasoning": "This is a poor fit. The Video Player Engineer role requires expertise in video streaming technology, codec implementation, player development, and media workflows—fundamentally different from Mohit's SDET/QA automation background. While both roles involve software engineering, Mohit's experience centers on test automation frameworks (Cypress, Playwright, Appium), API testing, and CI/CD pipelines rather than building video playback infrastructure. The job focuses on developing production video streaming solutions, not testing them. Though Mohit has strong programming fundamentals (1000+ DSA problems) and relevant languages (JavaScript, TypeScript), there's no evidence of video player SDKs, streaming protocols (HLS/DASH), CDN integration, or media engineering experience. This is a specialized platform/infrastructure engineering role, while Mohit is clearly positioned as a quality engineer seeking SDET/QA roles. The functional mismatch is severe despite some overlapping technical skills."
+    },
+    "adzuna:5800375476": {
+      "jobId": "adzuna:5800375476",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800375476?utm_medium=api&utm_source=3be4c496",
+      "title": "SAP ECC & IBP Sr Functional Consultant",
+      "company": "CGI",
+      "board": "indeed",
+      "fitScore": 5,
+      "reasoning": "This is a complete mismatch. The role requires an SAP ECC & IBP Senior Functional Consultant with expertise in enterprise resource planning systems, supply chain planning, and SAP-specific modules. Mohit is an SDET with 1.5 years of experience specializing in test automation frameworks (Cypress, Playwright, Appium), API testing, and CI/CD pipelines. He has zero SAP experience, no functional consulting background, and his entire skill set is built around software testing and automation engineering—not enterprise business systems configuration or implementation. The seniority level (Senior Consultant) also far exceeds his 1.5 years of experience. There is no transferable skill overlap beyond basic IT literacy."
+    },
+    "adzuna:5800350151": {
+      "jobId": "adzuna:5800350151",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800350151?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Engineer II",
+      "company": "Sandvine",
+      "board": "indeed",
+      "fitScore": 58,
+      "reasoning": "Mohit is a mid-level fit for this Software Engineer II role at Sandvine. The position appears to focus on network infrastructure software for observability, application performance, and real-time control—domains that typically require software development experience rather than pure test automation. While Mohit has solid programming skills (JavaScript, TypeScript, Python, Java) and 1.5 years of experience, his background is heavily weighted toward SDET/QA automation (Cypress, Playwright, Appium) rather than backend/systems development. The \"Engineer II\" title suggests 2-4 years of SDE experience, so he's slightly junior. His DSA strength (1000+ problems) and development fundamentals are positives, but without demonstrated experience building production application software, network monitoring tools, or observability platforms, there's a moderate skills gap. The role likely requires deeper software engineering in areas like distributed systems, APIs, or performance optimization beyond test tooling."
+    },
+    "adzuna:5800149543": {
+      "jobId": "adzuna:5800149543",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800149543?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Engineer - (Automation & Performance)",
+      "company": "Staples India Business Innovation Hub Private Limited",
+      "board": "indeed",
+      "fitScore": 62,
+      "reasoning": "Mohit presents a moderate fit for this Senior Software Engineer role focused on Automation & Performance at Staples. His technical skill set aligns well with the automation requirements—he has hands-on experience with Cypress, Playwright, Appium, WebDriverIO, and performance testing tools like k6 and Grafana. He's built frameworks from scratch and owns end-to-end test strategies across web, mobile, and API. However, the \"Senior\" designation creates a significant gap: with only 1.5 years of experience, he falls short of the typical 4-6 years expected for senior roles. The job appears to seek someone who can lead testing initiatives within an enterprise eCommerce context, requiring both technical depth and organizational maturity. While his DSA prowess and CI/CD pipeline work demonstrate strong engineering fundamentals, the seniority mismatch and lack of proven leadership or mentorship experience limit his candidacy. His current compensation (9 LPA) and target (12-13 LPA) also suggest he's positioning for mid-level roles, not senior positions."
+    },
+    "adzuna:5800146161": {
+      "jobId": "adzuna:5800146161",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800146161?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation Test Engineer",
+      "company": "Fulcrum Digital",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Mohit is a solid match for this Automation Test Engineer role with strong fundamentals in test automation and 1.5 years of SDET experience. His expertise in Playwright (a core requirement) is demonstrated, though the JD specifically seeks Playwright with .NET/C#, while his profile shows JavaScript/TypeScript proficiency. He has proven experience building automation frameworks from scratch (Cypress, Appium), understands Page Object Model patterns, and has hands-on CI/CD integration experience with GitHub Actions—directly transferable to Azure DevOps. The seniority level appears appropriate for his experience tier. The primary gap is the .NET/C# stack versus his JavaScript/TypeScript background, though both use Playwright's similar API patterns. Cross-browser testing and framework design align well with his end-to-end ownership track record. Compensation expectation (12-13 LPA) seems reasonable for Pune market at this level."
+    },
+    "adzuna:5800463004": {
+      "jobId": "adzuna:5800463004",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800463004?utm_medium=api&utm_source=3be4c496",
+      "title": "QA & Automation Engineer",
+      "company": "AMINA Group",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Mohit presents a solid match for AMINA's QA & Automation Engineer role with 1.5 years of hands-on SDET experience and a strong automation toolkit (Cypress, Playwright, Appium, WebDriverIO) that aligns well with typical fintech QA needs. His end-to-end test strategy ownership across web, mobile, and API demonstrates the breadth expected in a growing fintech environment. The role appears to be mid-level QA automation focused, which fits his SDET-1 seniority and target roles. However, the job description is truncated, making it difficult to assess domain-specific requirements (banking/financial services experience, regulatory compliance testing, or security-focused QA). His lack of explicit fintech or banking domain exposure and relatively junior tenure (1.5 years) present moderate risk for a regulated banking environment where domain knowledge and maturity can be critical. Compensation expectations (12-13 LPA) seem reasonable for a Mumbai-based fintech QA role at this level."
+    },
+    "adzuna:5800408928": {
+      "jobId": "adzuna:5800408928",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5800408928?utm_medium=api&utm_source=3be4c496",
+      "title": "Specialist Automation Engineer, CX",
+      "company": "NICE",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Mohit is a strong match for this Specialist Automation Engineer role at NICE. With 1.5 years as an SDET-1, he has hands-on experience building test automation frameworks from scratch using Cypress and Appium, plus cross-functional Scrum team experience which aligns well with the job's requirements. His technical stack (JavaScript, TypeScript, Python, Cypress, Playwright, Appium, API testing tools, and CI/CD with GitHub Actions) directly matches typical automation engineering needs in CX/product teams. The \"Specialist\" title suggests mid-level seniority, and while Mohit is early-career, his demonstrated ownership of end-to-end test strategy across web, mobile, and API, combined with strong DSA fundamentals (1000+ problems), shows maturity beyond his tenure. The limited JD details make it hard to assess domain-specific CX knowledge requirements, but his core automation engineering profile is spot-on. Minor gaps include relatively junior tenure for a \"Specialist\" title and no explicit customer experience domain exposure mentioned."
+    },
+    "adzuna:5800149578": {
+      "jobId": "adzuna:5800149578",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5800149578?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior QA Automation Engineer",
+      "company": "Distinction Dev",
+      "board": "indeed",
+      "fitScore": 32,
+      "reasoning": "This is a poor fit primarily due to a severe experience gap. The role explicitly requires 6 years of experience for a Senior QA Automation Engineer position, while Mohit has only 1.5 years. Although his technical skills align well—automation frameworks (Cypress, Playwright, Appium), CI/CD pipelines, and end-to-end test ownership—the seniority mismatch is disqualifying. Companies hiring for 6-year senior roles expect strategic leadership, mentoring capabilities, architectural decision-making, and complex system ownership that comes only with extensive hands-on experience. While Mohit's DSA problem-solving and framework-building demonstrate strong technical foundation, he lacks the depth of experience, organizational impact, and likely the stakeholder management skills expected at this level. The hybrid location in Ahmedabad also requires relocation, adding friction."
+    },
+    "adzuna:5799293462": {
+      "jobId": "adzuna:5799293462",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5799293462?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Engineer",
+      "company": "Aumni Techworks",
+      "board": "indeed",
+      "fitScore": 28,
+      "reasoning": "This is a severe experience mismatch. The job posting explicitly requires 7 years of hands-on QA automation experience, while Mohit has only 1.5 years. Although his technical skill set is excellent—with JavaScript/TypeScript proficiency, Cypress, Playwright, API testing with Postman, and CI/CD with GitHub Actions—the seniority gap is insurmountable for this role. Companies posting 7-year requirements typically seek senior engineers who can architect testing strategies at scale, mentor teams, and handle complex enterprise scenarios. Mohit's DSA problem-solving prowess and framework-building experience are impressive for a junior SDET, but he lacks the depth of experience in Agile environments, cross-functional leadership, and production system reliability that comes with 5+ additional years in the field. This appears to be a senior-level position that would require him to nearly quintuple his experience."
     }
   }
 }
