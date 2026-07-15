@@ -998,6 +998,36 @@
       "board": "indeed",
       "fitScore": 28,
       "reasoning": "This is a severe experience mismatch. The job posting explicitly requires 7 years of hands-on QA automation experience, while Mohit has only 1.5 years. Although his technical skill set is excellent—with JavaScript/TypeScript proficiency, Cypress, Playwright, API testing with Postman, and CI/CD with GitHub Actions—the seniority gap is insurmountable for this role. Companies posting 7-year requirements typically seek senior engineers who can architect testing strategies at scale, mentor teams, and handle complex enterprise scenarios. Mohit's DSA problem-solving prowess and framework-building experience are impressive for a junior SDET, but he lacks the depth of experience in Agile environments, cross-functional leadership, and production system reliability that comes with 5+ additional years in the field. This appears to be a senior-level position that would require him to nearly quintuple his experience."
+    },
+    "adzuna:5801061465": {
+      "jobId": "adzuna:5801061465",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801061465?utm_medium=api&utm_source=3be4c496",
+      "title": "C# Developer",
+      "company": "Arcot AI Solutions Private Limited",
+      "board": "indeed",
+      "fitScore": 22,
+      "reasoning": "This is a very poor fit. The role is for a C# Developer focused on plugin development, desktop engineering software, and system integrations—none of which appear in Mohit's profile. His entire background is in test automation (SDET) with JavaScript/TypeScript/Python ecosystems (Cypress, Playwright, Appium), not C# development or plugin architecture. While he has software engineering fundamentals (1000+ DSA problems), the core technical stack mismatch is severe. Additionally, the compensation is drastically misaligned: the role offers 3-5 LPA while Mohit currently earns 9 LPA and expects 12-13+ LPA. The only positive alignment is the 1-3 years experience range matching his 1.5 years, but this cannot overcome fundamental role type and skill incompatibility."
+    },
+    "adzuna:5801061473": {
+      "jobId": "adzuna:5801061473",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801061473?utm_medium=api&utm_source=3be4c496",
+      "title": "Dot Net with Automation Testing",
+      "company": "Weekday AI",
+      "board": "indeed",
+      "fitScore": 18,
+      "reasoning": "This is a severe mismatch on multiple critical dimensions. The role explicitly requires 7-10 years of experience and deep expertise in .NET technologies, while Mohit has only 1.5 years of experience and no .NET background whatsoever (his stack is JavaScript/TypeScript/Python/Java). The salary band of 25-30 LPA targets senior professionals, far exceeding his current 9 LPA and 12-13 LPA expectations. While Mohit demonstrates strong automation testing fundamentals with Cypress, Playwright, and Appium, and has built frameworks from scratch, the core technical requirement (.NET) is completely absent from his profile. This is effectively a senior-level role in a different technology ecosystem. The automation testing overlap provides minimal commonality, but cannot overcome the 5.5+ year experience gap and fundamental technology stack mismatch."
+    },
+    "adzuna:5801026931": {
+      "jobId": "adzuna:5801026931",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801026931?utm_medium=api&utm_source=3be4c496",
+      "title": "Rectuiter for IT consulting firm (IST Hours) serving US and India clients",
+      "company": "TekPioneers",
+      "board": "indeed",
+      "fitScore": 8,
+      "reasoning": "This is a fundamental mismatch. The job posting is for a Recruiter role in IT consulting, responsible for sourcing, screening, and coordinating candidate placements. Mohit is a technical SDET with 1.5 years of experience in test automation, software development, and quality engineering. He has zero recruiting, talent acquisition, or HR experience. His entire skill set (Cypress, Playwright, API testing, CI/CD) is irrelevant to the core responsibilities of sourcing candidates via Naukri/LinkedIn and managing recruitment lifecycles. While he understands the technical roles being recruited for (which could theoretically help assess technical candidates), he lacks the fundamental recruiting operations, stakeholder management, and sales/closure skills required. This is a complete career pivot that would require retraining from scratch."
     }
   }
 }
