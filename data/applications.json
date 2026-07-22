@@ -2818,6 +2818,46 @@
       "title": "Automation QA Engineer",
       "company": "Sisco Jobs",
       "board": "indeed"
+    },
+    "adzuna:5810904557": {
+      "jobId": "adzuna:5810904557",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5810904557?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Engineer",
+      "company": "Weekday AI",
+      "board": "indeed"
+    },
+    "adzuna:5810752158": {
+      "jobId": "adzuna:5810752158",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5810752158?utm_medium=api&utm_source=3be4c496",
+      "title": "SDET",
+      "company": "Hashone Careers Private Limited",
+      "board": "indeed"
+    },
+    "adzuna:5810716647": {
+      "jobId": "adzuna:5810716647",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5810716647?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior SDET",
+      "company": "Oddr",
+      "board": "indeed"
+    },
+    "adzuna:5810481550": {
+      "jobId": "adzuna:5810481550",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5810481550?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation Test Engineer – Playwright / Power Apps",
+      "company": "Bosch Group",
+      "board": "indeed"
+    },
+    "adzuna:5810752210": {
+      "jobId": "adzuna:5810752210",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5810752210?utm_medium=api&utm_source=3be4c496",
+      "title": "Lead QA Automation Engineer",
+      "company": "Impact Analytics",
+      "board": "indeed"
     }
   }
 }
