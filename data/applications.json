@@ -4002,6 +4002,22 @@
       "title": "Custom Software Engineer",
       "company": "Accenture",
       "board": "indeed"
+    },
+    "adzuna:5817324829": {
+      "jobId": "adzuna:5817324829",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5817324829?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Automation Test Engineer (SDET) - Java API Testing with REST Assured - Hyderabad",
+      "company": "Excellent Opportunity Placements",
+      "board": "indeed"
+    },
+    "adzuna:5817217264": {
+      "jobId": "adzuna:5817217264",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5817217264?utm_medium=api&utm_source=3be4c496",
+      "title": "Selenium C# Automation Test Engineer",
+      "company": "Bosch Group",
+      "board": "indeed"
     }
   }
 }
