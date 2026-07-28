@@ -4122,6 +4122,78 @@
       "title": "Software Package Developer",
       "company": "Arminus",
       "board": "indeed"
+    },
+    "adzuna:5818426105": {
+      "jobId": "adzuna:5818426105",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5818426105?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test II",
+      "company": "Akamai",
+      "board": "indeed"
+    },
+    "adzuna:5818371552": {
+      "jobId": "adzuna:5818371552",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5818371552?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior SDET – Test Automation",
+      "company": "BETSOL",
+      "board": "indeed"
+    },
+    "adzuna:5818371554": {
+      "jobId": "adzuna:5818371554",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5818371554?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior SDET – Performance Engineering",
+      "company": "BETSOL",
+      "board": "indeed"
+    },
+    "adzuna:5818254380": {
+      "jobId": "adzuna:5818254380",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5818254380?utm_medium=api&utm_source=3be4c496",
+      "title": "Quality Assurance Engineer I, ShipTech QA",
+      "company": "ADCI HYD 13 SEZ",
+      "board": "indeed"
+    },
+    "adzuna:5817860231": {
+      "jobId": "adzuna:5817860231",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5817860231?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Engineer – Kubernetes Platform Validation (Azure Local & GCP FedRAMP)",
+      "company": "BETSOL",
+      "board": "indeed"
+    },
+    "adzuna:5817860481": {
+      "jobId": "adzuna:5817860481",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5817860481?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Development Engineer in Test",
+      "company": "Experian",
+      "board": "indeed"
+    },
+    "adzuna:5817860568": {
+      "jobId": "adzuna:5817860568",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5817860568?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Test Automation Engineer – UiPath Test Suite & SAP",
+      "company": "METRO Global Solution Center IN",
+      "board": "indeed"
+    },
+    "adzuna:5818371550": {
+      "jobId": "adzuna:5818371550",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5818371550?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Engineer (DevOps) - Unified Communications & Contact Center Platforms",
+      "company": "BETSOL",
+      "board": "indeed"
+    },
+    "adzuna:5818252126": {
+      "jobId": "adzuna:5818252126",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5818252126?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Engineer - QA 2",
+      "company": "Purplle.com",
+      "board": "indeed"
     }
   }
 }
