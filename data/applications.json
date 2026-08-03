@@ -5554,6 +5554,46 @@
       "title": "Custom Software Engineer",
       "company": "Accenture",
       "board": "indeed"
+    },
+    "adzuna:5826675006": {
+      "jobId": "adzuna:5826675006",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5826675006?utm_medium=api&utm_source=3be4c496",
+      "title": "Test Analyst (SDET) - API Automation",
+      "company": "Hexaware",
+      "board": "indeed"
+    },
+    "adzuna:5826671673": {
+      "jobId": "adzuna:5826671673",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5826671673?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Product Engineering Lead (Client Journey & Solutioning)",
+      "company": "Olea: Olea",
+      "board": "indeed"
+    },
+    "adzuna:5826669420": {
+      "jobId": "adzuna:5826669420",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5826669420?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior SDET Architect",
+      "company": "Olea: Olea",
+      "board": "indeed"
+    },
+    "adzuna:5822434430": {
+      "jobId": "adzuna:5822434430",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5822434430?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test",
+      "company": "DTCC",
+      "board": "indeed"
+    },
+    "adzuna:5826694767": {
+      "jobId": "adzuna:5826694767",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5826694767?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation",
+      "company": "FIS Capital Markets",
+      "board": "indeed"
     }
   }
 }
