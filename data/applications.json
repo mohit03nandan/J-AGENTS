@@ -6962,6 +6962,62 @@
       "title": "QA Automation Engineer",
       "company": "Tarana Wireless",
       "board": "indeed"
+    },
+    "adzuna:5833014646": {
+      "jobId": "adzuna:5833014646",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5833014646?utm_medium=api&utm_source=3be4c496",
+      "title": "QAE II, Amazon Payments",
+      "company": "Amazon",
+      "board": "indeed"
+    },
+    "adzuna:5831609599": {
+      "jobId": "adzuna:5831609599",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5831609599?utm_medium=api&utm_source=3be4c496",
+      "title": "Sr Engineer, Software Quality Assurance - SDET, Python",
+      "company": "Vontier",
+      "board": "indeed"
+    },
+    "adzuna:5833024161": {
+      "jobId": "adzuna:5833024161",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5833024161?utm_medium=api&utm_source=3be4c496",
+      "title": "Project Engr II",
+      "company": "Honeywell",
+      "board": "indeed"
+    },
+    "adzuna:5833433945": {
+      "jobId": "adzuna:5833433945",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/land/ad/5833433945?se=6qBQPjKT8RG6L4_B5D25Rg&utm_medium=api&utm_source=3be4c496&v=BAA9CD8146D552523367F46B9702ED0910A8AAEA",
+      "title": "Senior Quality Test Engineer I",
+      "company": "RX Global",
+      "board": "indeed"
+    },
+    "adzuna:5833016260": {
+      "jobId": "adzuna:5833016260",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5833016260?utm_medium=api&utm_source=3be4c496",
+      "title": "Vice President, Application Engineer",
+      "company": "BlackRock",
+      "board": "indeed"
+    },
+    "adzuna:5833016270": {
+      "jobId": "adzuna:5833016270",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5833016270?utm_medium=api&utm_source=3be4c496",
+      "title": "VP - Senior Data Engineer (Python/Snowflake/Apache Airflow)",
+      "company": "BlackRock",
+      "board": "indeed"
+    },
+    "adzuna:5833032807": {
+      "jobId": "adzuna:5833032807",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5833032807?utm_medium=api&utm_source=3be4c496",
+      "title": "Team Lead Embedded Quality Assurance",
+      "company": "Veralto",
+      "board": "indeed"
     }
   }
 }
