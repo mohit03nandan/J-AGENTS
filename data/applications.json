@@ -7658,6 +7658,86 @@
       "title": "Associate Test Lead",
       "company": "Quality Engineering",
       "board": "indeed"
+    },
+    "adzuna:5835481595": {
+      "jobId": "adzuna:5835481595",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835481595?utm_medium=api&utm_source=3be4c496",
+      "title": "AI SDET",
+      "company": "Hitachi Vantara",
+      "board": "indeed"
+    },
+    "adzuna:5835311325": {
+      "jobId": "adzuna:5835311325",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835311325?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test (SDET) - Java",
+      "company": "Applied Materials",
+      "board": "indeed"
+    },
+    "adzuna:5835314761": {
+      "jobId": "adzuna:5835314761",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835314761?utm_medium=api&utm_source=3be4c496",
+      "title": "Systems Engr II",
+      "company": "Honeywell",
+      "board": "indeed"
+    },
+    "adzuna:5835483221": {
+      "jobId": "adzuna:5835483221",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835483221?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Test Engineer",
+      "company": "Caterpillar Inc.",
+      "board": "indeed"
+    },
+    "adzuna:5835481768": {
+      "jobId": "adzuna:5835481768",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835481768?utm_medium=api&utm_source=3be4c496",
+      "title": "Software engineer (Automation Testing)",
+      "company": "Gohil Technologies Pvt Ltd",
+      "board": "indeed"
+    },
+    "adzuna:5835317142": {
+      "jobId": "adzuna:5835317142",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835317142?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Quality Test Engineer I",
+      "company": "RELX INC",
+      "board": "indeed"
+    },
+    "adzuna:5835314292": {
+      "jobId": "adzuna:5835314292",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835314292?utm_medium=api&utm_source=3be4c496",
+      "title": "Embedded Developer - IOT Connectivity",
+      "company": "Grundfos",
+      "board": "indeed"
+    },
+    "adzuna:5835311316": {
+      "jobId": "adzuna:5835311316",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835311316?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Lead",
+      "company": "Applied Materials",
+      "board": "indeed"
+    },
+    "adzuna:5835283264": {
+      "jobId": "adzuna:5835283264",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835283264?utm_medium=api&utm_source=3be4c496",
+      "title": "AI Developer, RPA & Testing",
+      "company": "Magna International, Inc",
+      "board": "indeed"
+    },
+    "adzuna:5835283257": {
+      "jobId": "adzuna:5835283257",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5835283257?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Engineer - Global Test Automation Framework",
+      "company": "Magna International, Inc",
+      "board": "indeed"
     }
   }
 }
