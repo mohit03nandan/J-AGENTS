@@ -9498,6 +9498,118 @@
       "title": "Engineer - QA",
       "company": "Eaton Corporation",
       "board": "indeed"
+    },
+    "adzuna:5844295738": {
+      "jobId": "adzuna:5844295738",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844295738?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior SDET (Mobile-First Full Stack)",
+      "company": "Suki",
+      "board": "indeed"
+    },
+    "adzuna:5844292786": {
+      "jobId": "adzuna:5844292786",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844292786?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Development Engineer in Test (SDET)",
+      "company": "Skillz",
+      "board": "indeed"
+    },
+    "adzuna:5844290977": {
+      "jobId": "adzuna:5844290977",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844290977?utm_medium=api&utm_source=3be4c496",
+      "title": "SDET-II, Amazon Smart Vehicles",
+      "company": "Amazon",
+      "board": "indeed"
+    },
+    "adzuna:5842391605": {
+      "jobId": "adzuna:5842391605",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5842391605?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior SDET ID66907",
+      "company": "AgileEngine",
+      "board": "indeed"
+    },
+    "adzuna:5844292589": {
+      "jobId": "adzuna:5844292589",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844292589?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation, API and Integration Testing - Manager",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5844292196": {
+      "jobId": "adzuna:5844292196",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844292196?utm_medium=api&utm_source=3be4c496",
+      "title": "Lead Software Development Test Engineer",
+      "company": "Tekion",
+      "board": "indeed"
+    },
+    "adzuna:5844330764": {
+      "jobId": "adzuna:5844330764",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844330764?utm_medium=api&utm_source=3be4c496",
+      "title": "Test Engineer",
+      "company": "LT-Larsen & Toubro",
+      "board": "indeed"
+    },
+    "adzuna:5844305437": {
+      "jobId": "adzuna:5844305437",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844305437?utm_medium=api&utm_source=3be4c496",
+      "title": "Test Automation Engineer",
+      "company": "Accenture",
+      "board": "indeed"
+    },
+    "adzuna:5844302755": {
+      "jobId": "adzuna:5844302755",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844302755?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation Test Engineer (Selenium, Java, SQL)_4Yrs_Pune",
+      "company": "Worldpay",
+      "board": "indeed"
+    },
+    "adzuna:5844296968": {
+      "jobId": "adzuna:5844296968",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844296968?utm_medium=api&utm_source=3be4c496",
+      "title": "IN_Senior Associate_Java, springboot, Microservices_GCC_Advisory_Bangalore",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5844295203": {
+      "jobId": "adzuna:5844295203",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844295203?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Developer- Data Driven Vehicle Dynamics Toolchain",
+      "company": "BMW TechWorks",
+      "board": "indeed"
+    },
+    "adzuna:5844294021": {
+      "jobId": "adzuna:5844294021",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844294021?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation Engineer Senior Analyst",
+      "company": "Cigna Group",
+      "board": "indeed"
+    },
+    "adzuna:5844290269": {
+      "jobId": "adzuna:5844290269",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844290269?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Architect - Data Driven Vehicle Dynamics Toolchain",
+      "company": "BMW TechWorks",
+      "board": "indeed"
+    },
+    "adzuna:5844310565": {
+      "jobId": "adzuna:5844310565",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5844310565?utm_medium=api&utm_source=3be4c496",
+      "title": "[Upcoming Roles] Quality Assurance Team Lead",
+      "company": "Google Operations Center",
+      "board": "indeed"
     }
   }
 }
