@@ -9738,6 +9738,46 @@
       "title": "Test Automation Engineer",
       "company": "Accenture",
       "board": "indeed"
+    },
+    "adzuna:5846549651": {
+      "jobId": "adzuna:5846549651",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5846549651?utm_medium=api&utm_source=3be4c496",
+      "title": "SDET Architect - GIFT CITY Gandhinagar",
+      "company": "ClearRoute",
+      "board": "indeed"
+    },
+    "adzuna:5843986764": {
+      "jobId": "adzuna:5843986764",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5843986764?utm_medium=api&utm_source=3be4c496",
+      "title": "SDET",
+      "company": "Cognizant",
+      "board": "indeed"
+    },
+    "adzuna:5846549990": {
+      "jobId": "adzuna:5846549990",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5846549990?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Tester - Hyderabad / Hybrid - Playwright and TypeScript experience required",
+      "company": "Syneos Health",
+      "board": "indeed"
+    },
+    "adzuna:5845841822": {
+      "jobId": "adzuna:5845841822",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5845841822?utm_medium=api&utm_source=3be4c496",
+      "title": "Selenium C# Automation Test Engineer_L91",
+      "company": "Bosch Group",
+      "board": "indeed"
+    },
+    "adzuna:5846723115": {
+      "jobId": "adzuna:5846723115",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/land/ad/5846723115?se=WoYk3A2b8RGrpMHXA_ihvw&utm_medium=api&utm_source=3be4c496&v=817792F114F1D43FDB9CFCD0375DEF7B3D1455DF",
+      "title": "Senior Quality Automation Engineer",
+      "company": "Morningstar",
+      "board": "indeed"
     }
   }
 }
