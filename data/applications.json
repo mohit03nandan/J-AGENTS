@@ -11154,6 +11154,38 @@
       "title": "SFDC QA Automation Engineer",
       "company": "Hewlett Packard Enterprise",
       "board": "indeed"
+    },
+    "adzuna:5853367312": {
+      "jobId": "adzuna:5853367312",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5853367312?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Engineer",
+      "company": "Eaton Corporation",
+      "board": "indeed"
+    },
+    "adzuna:5853620197": {
+      "jobId": "adzuna:5853620197",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/land/ad/5853620197?se=2DvQB_qe8RGSb8VpDRDiVA&utm_medium=api&utm_source=3be4c496&v=6345C68E08F03AA2BF8BE896CCF6EA85D70575E2",
+      "title": "(\"Graphic Designer\" OR \"Visual Designer\") AND (\"Video Editor\" OR \"Motion\") AND (\"Behance\" OR \"portfolio\" OR \"Vimeo\") AND \"Hyderabad\"",
+      "company": "Saven Technologies",
+      "board": "indeed"
+    },
+    "adzuna:5853373405": {
+      "jobId": "adzuna:5853373405",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5853373405?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test (API, UI & Agentic Systems)",
+      "company": "NetApp",
+      "board": "indeed"
+    },
+    "adzuna:5853380189": {
+      "jobId": "adzuna:5853380189",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5853380189?utm_medium=api&utm_source=3be4c496",
+      "title": "Lead Engineer - Target India",
+      "company": "Target",
+      "board": "indeed"
     }
   }
 }
