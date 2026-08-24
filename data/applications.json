@@ -11298,6 +11298,54 @@
       "title": "Technical Lead",
       "company": "CUBE",
       "board": "indeed"
+    },
+    "adzuna:5854387879": {
+      "jobId": "adzuna:5854387879",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5854387879?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Engineer (Platform)",
+      "company": "Simbian Inc",
+      "board": "indeed"
+    },
+    "adzuna:5854321646": {
+      "jobId": "adzuna:5854321646",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5854321646?utm_medium=api&utm_source=3be4c496",
+      "title": "Lead Quality Platform Engineering - Devops",
+      "company": "AMD",
+      "board": "indeed"
+    },
+    "adzuna:5854321764": {
+      "jobId": "adzuna:5854321764",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5854321764?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Engineer - Test Automation",
+      "company": "Veeva Systems",
+      "board": "indeed"
+    },
+    "adzuna:5854186448": {
+      "jobId": "adzuna:5854186448",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5854186448?utm_medium=api&utm_source=3be4c496",
+      "title": "AI Developer, RPA & Testing",
+      "company": "Magna International, Inc",
+      "board": "indeed"
+    },
+    "adzuna:5854322102": {
+      "jobId": "adzuna:5854322102",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5854322102?utm_medium=api&utm_source=3be4c496",
+      "title": "Quality Assurance Engineer",
+      "company": "SourcingXPress",
+      "board": "indeed"
+    },
+    "adzuna:5854216338": {
+      "jobId": "adzuna:5854216338",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5854216338?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Engineer, Functional Testing",
+      "company": "Wabtec Corporation",
+      "board": "indeed"
     }
   }
 }
