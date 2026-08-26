@@ -11786,6 +11786,54 @@
       "title": "Senior Test Engineer",
       "company": "Alfa Laval Spiral",
       "board": "indeed"
+    },
+    "adzuna:5856683930": {
+      "jobId": "adzuna:5856683930",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5856683930?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Engineer",
+      "company": "Plume",
+      "board": "indeed"
+    },
+    "adzuna:5856574241": {
+      "jobId": "adzuna:5856574241",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5856574241?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Engineer in Test - Vice President",
+      "company": "Intelligentsia Capital",
+      "board": "indeed"
+    },
+    "adzuna:5856420340": {
+      "jobId": "adzuna:5856420340",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5856420340?utm_medium=api&utm_source=3be4c496",
+      "title": "Playwright Automation Engineer",
+      "company": "Expleo",
+      "board": "indeed"
+    },
+    "adzuna:5856447827": {
+      "jobId": "adzuna:5856447827",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5856447827?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Integration Engineer",
+      "company": "Mastercard",
+      "board": "indeed"
+    },
+    "adzuna:5855696410": {
+      "jobId": "adzuna:5855696410",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5855696410?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Backend Engineer ID84744",
+      "company": "AgileEngine",
+      "board": "indeed"
+    },
+    "adzuna:5856683886": {
+      "jobId": "adzuna:5856683886",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5856683886?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation",
+      "company": "WITS Innovation Lab",
+      "board": "indeed"
     }
   }
 }
