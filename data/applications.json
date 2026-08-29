@@ -13178,6 +13178,46 @@
       "title": "Digital Solution Consultant Sr. Analyst",
       "company": "NTT America, Inc.",
       "board": "indeed"
+    },
+    "adzuna:5861225001": {
+      "jobId": "adzuna:5861225001",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5861225001?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Quality Engineer (SDET - Automation)",
+      "company": "EquiLend",
+      "board": "indeed"
+    },
+    "adzuna:5861222934": {
+      "jobId": "adzuna:5861222934",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5861222934?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test",
+      "company": "Esko",
+      "board": "indeed"
+    },
+    "adzuna:5860970121": {
+      "jobId": "adzuna:5860970121",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5860970121?utm_medium=api&utm_source=3be4c496",
+      "title": "API Testing, Playwright, AI Usage_Quality Engineer Analyst",
+      "company": "Infosys",
+      "board": "indeed"
+    },
+    "adzuna:5861248300": {
+      "jobId": "adzuna:5861248300",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5861248300?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Development Engineer in Test",
+      "company": "SentinelOne",
+      "board": "indeed"
+    },
+    "adzuna:5861240942": {
+      "jobId": "adzuna:5861240942",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5861240942?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Development Engineer in Test",
+      "company": "Akamai",
+      "board": "indeed"
     }
   }
 }
