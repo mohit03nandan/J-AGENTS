@@ -23978,6 +23978,70 @@
       "title": "Business Development Executive",
       "company": "Calsoft",
       "board": "indeed"
+    },
+    "adzuna:5901703590": {
+      "jobId": "adzuna:5901703590",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901703590?utm_medium=api&utm_source=3be4c496",
+      "title": "Sdet 2",
+      "company": "AiDASH",
+      "board": "indeed"
+    },
+    "adzuna:5901762260": {
+      "jobId": "adzuna:5901762260",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901762260?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Test Engineer",
+      "company": "Toyota Automated Logistics",
+      "board": "indeed"
+    },
+    "adzuna:5901710501": {
+      "jobId": "adzuna:5901710501",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901710501?utm_medium=api&utm_source=3be4c496",
+      "title": "Test Automation Engineer Sr",
+      "company": "Dayforce",
+      "board": "indeed"
+    },
+    "adzuna:5901691067": {
+      "jobId": "adzuna:5901691067",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901691067?utm_medium=api&utm_source=3be4c496",
+      "title": "IN_Senior Associate_Funtional & Automation Cloud Tester_Digital Integration_Advisory_Kolkata",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5901711314": {
+      "jobId": "adzuna:5901711314",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901711314?utm_medium=api&utm_source=3be4c496",
+      "title": "IT Specialists",
+      "company": "NNE",
+      "board": "indeed"
+    },
+    "adzuna:5901708707": {
+      "jobId": "adzuna:5901708707",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901708707?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior MES Analyst",
+      "company": "NNE",
+      "board": "indeed"
+    },
+    "adzuna:5901698650": {
+      "jobId": "adzuna:5901698650",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901698650?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Engineer",
+      "company": "Mantras2Success",
+      "board": "indeed"
+    },
+    "adzuna:5901689679": {
+      "jobId": "adzuna:5901689679",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5901689679?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation Engineer, Senior Associate",
+      "company": "State Street",
+      "board": "indeed"
     }
   }
 }
