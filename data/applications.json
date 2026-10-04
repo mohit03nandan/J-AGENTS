@@ -25786,6 +25786,46 @@
       "title": "Manager II, V&V IoT & Cloud Applications",
       "company": "Schneider Electric",
       "board": "indeed"
+    },
+    "adzuna:5911676966": {
+      "jobId": "adzuna:5911676966",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5911676966?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Development Engineer In Test II",
+      "company": "The Walt Disney Company",
+      "board": "indeed"
+    },
+    "adzuna:5911671553": {
+      "jobId": "adzuna:5911671553",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5911671553?utm_medium=api&utm_source=3be4c496",
+      "title": "Manager",
+      "company": "Quality Engineering",
+      "board": "indeed"
+    },
+    "adzuna:5911377455": {
+      "jobId": "adzuna:5911377455",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5911377455?utm_medium=api&utm_source=3be4c496",
+      "title": "Tosca Automation Engineer",
+      "company": "Deloitte",
+      "board": "indeed"
+    },
+    "adzuna:5910224298": {
+      "jobId": "adzuna:5910224298",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5910224298?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Engineer (Development & Quality)",
+      "company": "Kaseya",
+      "board": "indeed"
+    },
+    "adzuna:5905910730": {
+      "jobId": "adzuna:5905910730",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5905910730?utm_medium=api&utm_source=3be4c496",
+      "title": "Lead QA Engineer",
+      "company": "Qualys",
+      "board": "indeed"
     }
   }
 }
