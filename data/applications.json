@@ -30250,6 +30250,78 @@
       "title": "Lead QA Automation Engineer (FX)",
       "company": "LSEG",
       "board": "indeed"
+    },
+    "adzuna:5934487209": {
+      "jobId": "adzuna:5934487209",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5934487209?utm_medium=api&utm_source=3be4c496",
+      "title": "SDET Engineer 2",
+      "company": "Providence India",
+      "board": "indeed"
+    },
+    "adzuna:5934365242": {
+      "jobId": "adzuna:5934365242",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5934365242?utm_medium=api&utm_source=3be4c496",
+      "title": "Associate SDET Engineer",
+      "company": "Cohere Health",
+      "board": "indeed"
+    },
+    "adzuna:5934869834": {
+      "jobId": "adzuna:5934869834",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5934869834?utm_medium=api&utm_source=3be4c496",
+      "title": "QA Automation Engineer (C#, Selenium & API)",
+      "company": "Neev Pvt Ltd",
+      "board": "indeed"
+    },
+    "adzuna:5934617935": {
+      "jobId": "adzuna:5934617935",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5934617935?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Engineering Manager Test & Automation",
+      "company": "Smiths Detection",
+      "board": "indeed"
+    },
+    "adzuna:5934487561": {
+      "jobId": "adzuna:5934487561",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5934487561?utm_medium=api&utm_source=3be4c496",
+      "title": "Automation test engineer",
+      "company": "Infosys",
+      "board": "indeed"
+    },
+    "adzuna:5934487308": {
+      "jobId": "adzuna:5934487308",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5934487308?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Lead Engineer Testing",
+      "company": "Adtran",
+      "board": "indeed"
+    },
+    "adzuna:5935180101": {
+      "jobId": "adzuna:5935180101",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5935180101?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior QA Automation Engineer - AEM Assets",
+      "company": "Caterpillar, Inc.",
+      "board": "indeed"
+    },
+    "adzuna:5935024049": {
+      "jobId": "adzuna:5935024049",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5935024049?utm_medium=api&utm_source=3be4c496",
+      "title": "Quality Assurance",
+      "company": "Actalent",
+      "board": "indeed"
+    },
+    "adzuna:5934455431": {
+      "jobId": "adzuna:5934455431",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5934455431?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior QA Automation Engineer (Java  Playwright)",
+      "company": "RELQ TECHNOLOGIES LLC",
+      "board": "indeed"
     }
   }
 }
