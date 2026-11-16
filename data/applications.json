@@ -38218,6 +38218,86 @@
       "title": "Custom Software Engineer",
       "company": "Accenture",
       "board": "indeed"
+    },
+    "adzuna:5967713452": {
+      "jobId": "adzuna:5967713452",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967713452?utm_medium=api&utm_source=3be4c496",
+      "title": "FBS Application Test Spec III",
+      "company": "Capgemini",
+      "board": "indeed"
+    },
+    "adzuna:5967976959": {
+      "jobId": "adzuna:5967976959",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967976959?utm_medium=api&utm_source=3be4c496",
+      "title": "Lead Developer - Java and Microservices",
+      "company": "Citibank",
+      "board": "indeed"
+    },
+    "adzuna:5967972971": {
+      "jobId": "adzuna:5967972971",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967972971?utm_medium=api&utm_source=3be4c496",
+      "title": "Manager",
+      "company": "Quality Engineering",
+      "board": "indeed"
+    },
+    "adzuna:5967972692": {
+      "jobId": "adzuna:5967972692",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967972692?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Engineer- Automation Testing",
+      "company": "Caterpillar",
+      "board": "indeed"
+    },
+    "adzuna:5967959954": {
+      "jobId": "adzuna:5967959954",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967959954?utm_medium=api&utm_source=3be4c496",
+      "title": "Software Test Engineer - Automation Testing",
+      "company": "Caterpillar",
+      "board": "indeed"
+    },
+    "adzuna:5967779820": {
+      "jobId": "adzuna:5967779820",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967779820?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior Software Engineer - Automation Testing",
+      "company": "Esyasoft Technologies Private Limited",
+      "board": "indeed"
+    },
+    "adzuna:5967713608": {
+      "jobId": "adzuna:5967713608",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967713608?utm_medium=api&utm_source=3be4c496",
+      "title": "Test Automation Engineer (Playwright)",
+      "company": "Infosys",
+      "board": "indeed"
+    },
+    "adzuna:5967959373": {
+      "jobId": "adzuna:5967959373",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967959373?utm_medium=api&utm_source=3be4c496",
+      "title": "Senior QA Automation Engineer - AEM Assets",
+      "company": "Caterpillar",
+      "board": "indeed"
+    },
+    "adzuna:5967958246": {
+      "jobId": "adzuna:5967958246",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967958246?utm_medium=api&utm_source=3be4c496",
+      "title": "QA / Automation Engineer",
+      "company": "Akeshya",
+      "board": "indeed"
+    },
+    "adzuna:5967713533": {
+      "jobId": "adzuna:5967713533",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5967713533?utm_medium=api&utm_source=3be4c496",
+      "title": "Remote: Recruiter for IT consulting firm (IST Hours) serving US and India clients (VP)",
+      "company": "TekPioneers",
+      "board": "indeed"
     }
   }
 }
